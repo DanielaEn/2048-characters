@@ -70,7 +70,7 @@ input {
 h1.title {
   font-size: 58px;
   font-weight: medium;
-  color: #FAC8BF; 
+  color: #1e6477; 
   margin: 116px;
   display: block;
   float: left; }
@@ -106,7 +106,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #1e6477;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -1026,6 +1026,6 @@ a.retry-button {
 
 
 div#footer {        
-  background:#FAC8BF;
+  background:#1e6477;
   height: 100px;
 } 
