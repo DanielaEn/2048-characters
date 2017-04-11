@@ -70,8 +70,9 @@ input {
 h1.title {
   font-size: 58px;
   font-weight: medium;
-  color: #1e6477; 
-  margin: 116px;
+  color: #1e6477;
+  margin-top: -24px;
+  margin-left: 116px;
   display: block;
   float: left; }
 
