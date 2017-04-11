@@ -10,7 +10,7 @@ html, body {
 
 div#header {        
   background:#D1D2D4;
-  height: 100px; 
+  height: 35px; 
   opacity: 0;
 }   
 
@@ -1029,5 +1029,5 @@ a.retry-button {
 
 div#footer {        
   background:#1e6477;
-  height: 100px;
+  height: 35px;
 } 
