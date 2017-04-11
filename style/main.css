@@ -69,6 +69,7 @@ input {
 h1.title {
   font-size: 58px;
   font-weight: medium;
+  color: #FAC8BF; 
   margin: 116px;
   display: block;
   float: left; }
@@ -1024,6 +1025,6 @@ a.retry-button {
 
 
 div#footer {        
-  background:#29ABA4;
-  height: 100px;      
+  background:#FAC8BF;
+  height: 100px;
 } 
