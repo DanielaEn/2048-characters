@@ -3,15 +3,15 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-image: url("bg.jpg");
-  background-size: 1920px 1098px;
-  background-repeat: no-repeat;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
 
 body {
+  background-color: #D1D2D4;
+  background-image: url("");
+  background-size: 100% 100%;
   margin: 0 0; }
 
 p.learn {
