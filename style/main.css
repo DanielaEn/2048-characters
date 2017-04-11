@@ -16,12 +16,12 @@ body {
   margin: 0 0; }
 
 header {
-	background:#D1D2D4;
-	margin: 100px;
+  background:#20B2AA;
+  margin: 100px;
 	}
 
 footer {
-	background:#D1D2D4;
+  background:#D1D2D4;
   border: 10px dotted #20B2AA;
   margin: 100px;
 	}
