@@ -664,7 +664,8 @@ hr {
     padding: 0;
     display: block;
     box-sizing: border-box;
-    margin-top: 2px; }
+    margin-top: 5px;
+    height: 55px;}
 
   .game-container {
     margin-top: 17px;
