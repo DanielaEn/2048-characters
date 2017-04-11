@@ -10,7 +10,8 @@ html, body {
 
 div#header {        
   background:#D1D2D4;
-  height: 100px;       
+  height: 100px; 
+  opacity: 0;
 }   
 
 body {
