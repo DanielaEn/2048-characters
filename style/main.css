@@ -10,8 +10,8 @@ html, body {
 
 body {
   background-color: #D1D2D4;
-  background-image: url("");
-  background-size: 100% 100%;
+  background-image: url("bg.jpg");
+  background-position: left top;
   margin: 0 0; }
 
 p.learn {
