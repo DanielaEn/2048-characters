@@ -8,25 +8,19 @@ html, body {
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
 
+div#header {        
+  background:#20B2AA;
+  height: 100px;       
+}   
+
 body {
   background-color: #D1D2D4;
   background-image: url("bg.jpg");
   background-repeat: no-repeat;
   background-position: left top;
   margin: 0 0; }
-}        
-
-div#header {        
-  background:#20B2AA;
-  height: 100px;       
-}        
-
-div#footer {        
-  background:#D1D2D4;
-  border: 10px dotted #20B2AA;
-  height: 100px;      
-}        
-
+}             
+       
 p.learn {
   margin-top: 20px;
 }
@@ -1027,3 +1021,10 @@ a.retry-button {
   margin-left: 10px;
   float: center;
 }
+
+
+div#footer {        
+  background:#D1D2D4;
+  border: 10px dotted #20B2AA;
+  height: 100px;      
+} 
