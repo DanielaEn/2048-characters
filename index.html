@@ -21,9 +21,12 @@
   <meta property="og:site_name" content="2048 game"/>
   <meta property="og:description" content="Play Udacity 2048. Then, make your own 2048 game in Udacity's 2 hour mini course for programming beginners!"/>
   <meta property="og:image" content="http://gabrielecirulli.github.io/2048/meta/og_image.png"/>
+  
+  <div id="header">
+  </div>
+  
 </head>
-<div id="header">
-  </div>   
+   
 <body>
   <div id="background">
     <a href="http://github.com/DanielaEn/2048-characters/blob/gh-pages/style/bg.jpg"> </a>  
@@ -43,6 +46,7 @@
       <a class="restart-button">New Game</a>
       </p>
     </div>
+  </div>    
 
     <div class="pre-game">
     </div>
@@ -54,7 +58,6 @@
           <a class="retry-button">Play Again</a>
           <div class="score-sharing"></div>
         </div>
-      </div>
 
       <div class="grid-container">
         <div class="grid-row">
@@ -84,14 +87,13 @@
       </div>
 
       <div class="tile-container">
-
       </div>
     </div>
-      
-    <p class="game-explanation">
-      <strong class="important">How to play:
-      </p>
-      <p></strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same value touch, they <strong>merge into one!</strong>
+    
+    <div>  
+      <p class="game-explanation">
+      <strong class="important">How to play:<p></strong> 
+      <p> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same value touch, they <strong>merge into one!</strong>
       </p>
     </div>
     
@@ -107,9 +109,5 @@
   <script src="js/application.js"></script>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-</body>  
-  
-<div id="footer">
-</div>  
-  
-</html>
+</body>   
+</html> 
